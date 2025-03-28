@@ -7,3 +7,4 @@ title = "直接核反应理论"
 [output.html]
 mathjax-support = true
 no-section-label = true
+additional-css = ["theme/theme.css"]
