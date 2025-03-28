@@ -1,0 +1,6 @@
+[book]
+authors = ["金磊"]
+language = "zh-CN"
+multilingual = false
+src = "src"
+title = "直接核反应理论"
